@@ -1,0 +1,14 @@
+{
+  "project": "j-robert-oppenheimer-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "BvxenKhT3tV1e3KBkzcRDoPzZjCQsj2QfoW4BEH47NfY",
+  "vault_account": "DZbaL6L594CVei6oDvvVkaS4bZxX2vbLptiCvc5apPuD",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4YWZnKvJ9EAMawYBV3tgzQmzPZ8vB8Ktbd9fNrGR7Gp6UoF6pnEt2UFQhKNTahNFgLwMM2x2TcNjAmiUjvqNHpdz",
+  "account_tx": "5KDhXTDFgnTCaeVH6Dd9un9fB1hmyna88w8ib8QHddh8qLwYGo2pmgQV6Vf795jRFqDZnPVnEsqMetvAPEkpbGCL",
+  "mint_tx": "3hdkh6sr9Hq6ysSSKvriiykWYF26gXHJqffqxSAdEL5pEyPLQmMn1QG8aaxqNX9gR7jhmRzWEqSeTfjydKEtFjPg",
+  "solana_explorer_mint": "https://explorer.solana.com/address/BvxenKhT3tV1e3KBkzcRDoPzZjCQsj2QfoW4BEH47NfY?cluster=devnet",
+  "timestamp": "2026-10-26 16:42:04 UTC"
+}
